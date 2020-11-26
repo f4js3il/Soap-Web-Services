@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://shalu/soapwebservices" 
+xsi:schemaLocation="http://shalu/soapwebservices Course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CourseDetails>
+<id>123</id>
+<name>SoapWebServicesResponse</name>
+<description>Testing SoapWebServices</description>
+</CourseDetails>
+</GetCourseDetailsResponse>
